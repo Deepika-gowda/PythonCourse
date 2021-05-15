@@ -6,7 +6,10 @@
 
 """
 
-
+a = 15
+b =4
+reminder = a%b
+print(reminder)
 
 
 
